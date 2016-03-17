@@ -6,3 +6,4 @@
 
 [PHD 2.0mm pitch connectors](http://www.jst-mfg.com/product/pdf/eng/ePHD.pdf)
 
+[XH 2.5mm pitch connectors](http://www.jst-mfg.com/product/pdf/eng/eXH.pdf)
