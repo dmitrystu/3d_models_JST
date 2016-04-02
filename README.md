@@ -2,6 +2,8 @@
 
 [SH 1.0mm pitch connectors](http://www.jst-mfg.com/product/pdf/eng/eSH.pdf)
 
+[SHD 1.0mm pitch connectors](http://www.jst-mfg.com/product/pdf/eng/eSHD.pdf)
+
 [ZH 1.5mm pitch connectors](http://www.jst-mfg.com/product/pdf/eng/eZH.pdf)
 
 [PH 2.0mm pitch connectors](http://www.jst-mfg.com/product/pdf/eng/ePH.pdf)
